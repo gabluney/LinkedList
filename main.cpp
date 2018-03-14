@@ -1,6 +1,6 @@
 //----------------------------------------------
 // Purpose: Implement simple List class.
-// Author:  John Gauch
+// Author:  John Gauch(Professor) and Gabrielle Luney
 //----------------------------------------------
 
 #include "list2.h"
