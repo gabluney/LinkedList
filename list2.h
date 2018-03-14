@@ -1,6 +1,6 @@
 //-----------------------------------------------------------
 //  Purpose:    Header file for the List class.
-//  Author:     John Gauch
+//  Author:     John Gauch(Professor) and Gabrielle Luney
 //-----------------------------------------------------------
 
 #include <time.h>
